@@ -1,0 +1,8 @@
+:global {
+  @import '~normalize.css/normalize';
+
+  // override-bootstrap
+  .bg-primary {
+    background-color: red;
+  }
+}
